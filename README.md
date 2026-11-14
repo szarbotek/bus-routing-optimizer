@@ -20,7 +20,7 @@ The algorithm solves the combinatorial minimization of wire crossings (*valid cu
 
 The diagram below compares the least optimal arrangement (6 wire crossings) against the fully optimized layout (0 wire crossings):
 
-![Bus Routing Optimization Diagram](assets/routing_comparison.svg)
+![Bus Routing Optimization Diagram](assets/routing_comparison.png)
 
 ## Usage
 
